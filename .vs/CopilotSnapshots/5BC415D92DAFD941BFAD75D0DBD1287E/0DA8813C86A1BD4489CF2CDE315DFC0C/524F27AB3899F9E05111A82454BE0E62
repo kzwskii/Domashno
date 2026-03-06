@@ -1,0 +1,46 @@
+﻿using RegisterSystem.Models;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Linq;
+
+namespace RegisterSystem.Repository;
+
+public class UserRepository : IUserRepository
+{
+    public void Add(User entity)
+    {
+        using UserContext db = new();
+        db.Add(entity);
+        db.SaveChanges();
+    }
+
+    public void Delete(int id)
+    {
+        using UserContext db = new();
+        var userToRemove = GetById(id);
+        db.Users.Remove(userToRemove);
+        db.SaveChanges();
+    }
+
+    public List<User> GetAll()
+    {
+        using UserContext db = new();
+        return db.Users.ToList();
+    }
+
+    public User GetById(int id)
+    {
+        using UserContext db = new();
+        return db.Users.FirstOrDefault(u => u.UserId == id);
+    }
+
+    public void Update(int id)
+    {
+        using UserContext db = new();
+        var userToUpdate = GetById(id);
+        db.Users.Update(userToUpdate);
+        db.SaveChanges();
+    }
+
+}
