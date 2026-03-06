@@ -55,8 +55,6 @@ namespace RegisterSystem
 
                 return;
             }
-
-            // Проверка за съществуващ потребител
             try
             {
                 var repo = new UserRepository();

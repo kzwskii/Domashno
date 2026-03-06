@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\registereventhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +47,12 @@
       "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\migrations\\20260224105907_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\migrations\\20260224105907_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|c:\\users\\layin\\onedrive\\desktop\\ak\\registersystem\\registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DC162C3-79D2-4F7F-B8F2-243E533ED4D2}|RegisterSystem\\RegisterSystem.csproj|solutionrelative:registersystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,37 +70,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.Designer.cs",
-              "RelativeDocumentMoniker": "RegisterSystem\\RegisterForm.Designer.cs",
-              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.Designer.cs",
-              "RelativeToolTip": "RegisterSystem\\RegisterForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterSystem\\RegisterForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:17:53.131Z",
+              "WhenOpened": "2026-03-06T08:47:08.76Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterSystem\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:46:45.714Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "RegisterSystem\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "RegisterSystem\\Repository\\IUserRepository.cs",
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "RegisterSystem\\LoginForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:07:15.601Z",
+              "WhenOpened": "2026-03-06T08:46:42.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "RegisterSystem\\Repository\\UserRepository.cs",
@@ -101,46 +125,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "RegisterSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:07:42.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "RegisterSystem\\LoginForm.cs",
               "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.cs",
               "RelativeToolTip": "RegisterSystem\\LoginForm.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA6wA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T08:07:45.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Program.cs",
-              "RelativeDocumentMoniker": "RegisterSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Program.cs",
-              "RelativeToolTip": "RegisterSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:07:21.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterEventHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterEventHelpers.cs",
-              "RelativeDocumentMoniker": "RegisterSystem\\RegisterEventHelpers.cs",
-              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterEventHelpers.cs",
-              "RelativeToolTip": "RegisterSystem\\RegisterEventHelpers.cs",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "RegisterSystem\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:07:23.438Z",
+              "WhenOpened": "2026-03-06T08:07:15.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "RegisterSystem\\Repository\\IRepository.cs",
@@ -153,20 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Models\\UserContext.cs",
-              "RelativeDocumentMoniker": "RegisterSystem\\Models\\UserContext.cs",
-              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Models\\UserContext.cs",
-              "RelativeToolTip": "RegisterSystem\\Models\\UserContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:07:56.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "RegisterSystem\\Models\\User.cs",
@@ -179,7 +189,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Program.cs",
+              "RelativeToolTip": "RegisterSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:07:21.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "RegisterSystem\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:17:53.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Models\\UserContext.cs",
+              "RelativeToolTip": "RegisterSystem\\Models\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:07:56.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterEventHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterEventHelpers.cs",
+              "RelativeDocumentMoniker": "RegisterSystem\\RegisterEventHelpers.cs",
+              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\RegisterEventHelpers.cs",
+              "RelativeToolTip": "RegisterSystem\\RegisterEventHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:07:23.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Migrations\\UserContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "RegisterSystem\\Migrations\\UserContextModelSnapshot.cs",
@@ -187,12 +249,11 @@
               "RelativeToolTip": "RegisterSystem\\Migrations\\UserContextModelSnapshot.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:09:13.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T08:09:13.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20260224105907_InitCreate.cs",
               "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\Migrations\\20260224105907_InitCreate.cs",
               "RelativeDocumentMoniker": "RegisterSystem\\Migrations\\20260224105907_InitCreate.cs",
@@ -200,20 +261,7 @@
               "RelativeToolTip": "RegisterSystem\\Migrations\\20260224105907_InitCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:09:22.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.cs",
-              "RelativeDocumentMoniker": "RegisterSystem\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\layin\\OneDrive\\Desktop\\AK\\RegisterSystem\\RegisterSystem\\LoginForm.cs [Design]",
-              "RelativeToolTip": "RegisterSystem\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:07:42.957Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-06T08:09:22.141Z"
             }
           ]
         }
